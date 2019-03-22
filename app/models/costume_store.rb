@@ -1,2 +1,2 @@
-class CostumeStore < ActiveRecord::Base[5.1]
+class CostumeStore < ActiveRecord::Base
 end
